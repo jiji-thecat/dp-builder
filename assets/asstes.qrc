@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/assets">
+        <file>cat.png</file>
+        <file>alien.png</file>
+    </qresource>
+</RCC>
